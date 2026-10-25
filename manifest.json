@@ -1,0 +1,9 @@
+{
+  "name": "MedPulse — Safe Medication & Hydration Timer",
+  "short_name": "MedPulse",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "description": "Safe Medication Guard, Hydration Loop, Reference Offset Reminders, and Custom Alert Studio."
+}
